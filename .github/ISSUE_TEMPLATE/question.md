@@ -1,6 +1,6 @@
 ---
-name: ❓ Question / Discussion
-about: 궁금한 점이나 함께 논의하고 싶은 내용을 남겨주세요!
+name: ❓ Question
+about: 논의/질문 이슈 템플릿
 title: "[QUESTION] "
 labels: "❓ question"
 assignees: ""
