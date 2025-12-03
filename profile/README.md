@@ -8,7 +8,8 @@
   
   **실시간 패턴 감지 · 백테스팅 · AI 주가 예측 · AI 종목 검색 · AI 감정 투자 일기**
   
-  [🎥 데모 영상](https://youtu.be/KmI5lIBw4qw) • [📄 발표 자료](https://github.com/user-attachments/files/23878356/AI.pdf)
+  [🎥 데모 영상](https://youtu.be/KmI5lIBw4qw) • [📄 발표 자료](https://github.com/user-attachments/files/23898620/PatternCatcher.pdf)
+
 </div>
 
 ---
@@ -258,7 +259,7 @@ Flutter 기반 크로스 플랫폼 모바일 앱 (Android/iOS)
 - [📙 Client](https://github.com/SynergyX-AI-Pattern/SynergyX-Client)
 
 ### Documentation
-- [📄 발표 자료](https://github.com/user-attachments/files/23878356/AI.pdf)
+- [📄 발표 자료](https://github.com/user-attachments/files/23898620/PatternCatcher.pdf)
 
 ### Demo
 - [🎥 데모 영상](https://youtu.be/KmI5lIBw4qw)
