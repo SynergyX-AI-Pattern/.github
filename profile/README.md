@@ -6,7 +6,7 @@
 [![Demo](https://img.shields.io/badge/데모_영상-C93B47?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/KmI5lIBw4qw)
 [![Presentation](https://img.shields.io/badge/발표_자료-6C94D4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/user-attachments/files/23898620/PatternCatcher.pdf)
 
-<img width="4800" height="2400" alt="1-6f60498e" src="https://github.com/user-attachments/assets/24c17eaf-4506-4365-9752-37737730047c" />
+<img width="100%" alt="1-6f60498e" src="https://github.com/user-attachments/assets/24c17eaf-4506-4365-9752-37737730047c" />
 
 ---
 
@@ -135,29 +135,25 @@ Flutter 기반 크로스 플랫폼 모바일 앱 (Android/iOS)
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/28e9e6d1-2417-4314-96f1-9da0d3be5baf" width="100%"/>
       <br />
-      <sub><b>홈 화면</b></sub>
-      <br />
+      <b>홈 화면</b><br/>
       <sub>Top 20 / AI Top 20</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/67e003b8-f02b-4bb4-b1e5-b75596e0abc4" width="100%"/>
       <br />
-      <sub><b>종목 상세</b></sub>
-      <br />
+      <b>종목 상세</b><br/>
       <sub>차트 / AI 예측</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/73670a7e-1a1a-4f67-bfba-7cc0ba68999e" width="100%"/>
       <br />
-      <sub><b>패턴 생성</b></sub>
-      <br />
+      <b>패턴 생성</b><br/>
       <sub>드래그 방식</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/cbb50423-2795-44de-a1bf-81d25df814bd" width="100%"/>
       <br />
-      <sub><b>백테스팅 결과</b></sub>
-      <br />
+      <b>백테스팅 결과</b><br/>
       <sub>수익률 분석</sub>
     </td>
   </tr>
@@ -165,30 +161,26 @@ Flutter 기반 크로스 플랫폼 모바일 앱 (Android/iOS)
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/2fcdd623-6705-4982-907e-e120999a86a6" width="100%"/>
       <br />
-      <sub><b>AI 종목 검색</b></sub>
-      <br />
+      <b>AI 종목 검색</b><br/>
       <sub>이미지 기반</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/131b430f-96af-4516-8487-519e0f554250" width="100%"/>
       <br />
-      <sub><b>감정 투자 일기</b></sub>
-      <br />
+      <b>감정 투자 일기</b><br/>
       <sub>AI 분석</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/f1d5bcd7-c144-44d9-b380-43d0a64434dc" width="100%"/>
       <br />
-      <sub><b>관심 종목</b></sub>
-      <br />
+      <b>관심 종목</b><br/>
       <sub>종목 관리</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/f800212a-5512-4d59-9633-5f79ac07a07b" width="100%"/>
       <br />
-      <sub><b>관심 종목</b></sub>
-      <br />
-      <sub>종목 관리</sub>
+      <b>관심 종목</b><br/>
+      <sub>패턴 / 백테스팅 관리</sub>
     </td>
   </tr>
 </table>
