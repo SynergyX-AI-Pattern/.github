@@ -1,8 +1,10 @@
 # 📈 PatternCatcher (패턴캐처) 
 **🏆 한이음 드림업 장려상 수상작**
 
-### AI 주가 예측 및 차트 패턴 기반 실시간 감지·백테스팅 시스템
-[🎥 데모 영상](https://youtu.be/KmI5lIBw4qw) • [📄 발표 자료](https://github.com/user-attachments/files/23898620/PatternCatcher.pdf)
+> **사용자 정의 차트 패턴 기반 실시간 감지·백테스팅·AI 투자 보조 시스템**
+
+[![Demo](https://img.shields.io/badge/데모_영상-C93B47?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/KmI5lIBw4qw)
+[![Presentation](https://img.shields.io/badge/발표_자료-6C94D4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/user-attachments/files/23898620/PatternCatcher.pdf)
 
 <img width="4800" height="2400" alt="1-6f60498e" src="https://github.com/user-attachments/assets/24c17eaf-4506-4365-9752-37737730047c" />
 
@@ -50,19 +52,11 @@ PatternCatcher는 **나만의 투자 전략을 만들고 싶은 투자자**를 �
 
 <br/>
 
-### 🎯 핵심 가치
-1. **실시간 패턴 감지**: DTW 알고리즘으로 자동 감지 및 알림
-2. **전략 검증**: 과거 5년 데이터 기반 백테스팅
-3. **AI 투자 지원**: Vision AI·GPT·GRU 모델 연계
-
-<br/>
-
 ### ✨ 프로젝트 특징
-
-1. **패턴 분석 알고리즘**: 시계열 정규화와 DTW 기반 유사도 계산으로 높은 정확도의 패턴 감지 구현
-2. **효율적인 백테스팅 구조**: 슬라이딩 윈도우·이진 탐색 기법을 결합해 대규모 데이터에서도 빠르고 정밀한 분석 수행
-3. **AI 융합 투자 지원 시스템**: Vision AI·GPT·GRU 모델을 통합하여 이미지, 텍스트, 시계열 데이터를 모두 활용한 투자 분석 실현
-4. **직관적 데이터 시각화**: 복잡한 금융 데이터를 시각적으로 단순화하여 누구나 쉽게 전략을 설계·검증 가능
+1. **DTW 기반 패턴 분석**: 시계열 정규화와 유사도 계산으로 평균 0.85 정확도 달성
+2. **효율적 백테스팅**: 슬라이딩 윈도우·이진 탐색으로 5년 데이터 고속 분석
+3. **AI 융합 시스템**: Vision AI·GPT-4o·GRU 모델을 통합한 다각도 투자 분석
+4. **직관적 UX**: 복잡한 금융 데이터를 시각화하여 누구나 쉽게 전략 설계 가능
 
 <br/>
 
