@@ -238,16 +238,23 @@ Flutter 기반 크로스 플랫폼 모바일 앱 (Android/iOS)
 
 ---
 
-## 👥 Contributors
-<div align="center">
+## 👥 Team
 
-|  한지수<br/>([@eldeoddt](https://github.com/eldeoddt)) | 이가현<br/>([@KaHeyon](https://github.com/KaHeyon)) | 이채원<br/>([@Chaewon5227](https://github.com/Chaewon5227)) | 조수민<br/>([@Soomxn](https://github.com/Soomxn)) |
-|:---:|:---:|:---:|:---:|
-| <img width="180" src="https://avatars.githubusercontent.com/u/90364562?v=4"/> | <img width="180" src="https://avatars.githubusercontent.com/u/93692881?v=4"/> | <img width="180" src="https://avatars.githubusercontent.com/u/101373869?v=4"/> | <img width="180" src="https://avatars.githubusercontent.com/u/145249737?v=4"/> |
-| **Team & Backend Lead** | **Frontend Lead** | **Flutter UI/UX** | **Backend & ML Engineer** |
-| <div align="left">• 서비스 기획·관리<br/>• Spring Boot 백엔드<br/>• GRU 예측 모델<br/>• 한국투자증권 API</div> |<div align="left">• UI/UX 디자인<br/>• FE 개발<br/>• 차트 컴포넌트<br/>• UX 최적화</div> |<div align="left">• 아이디어·기획<br/>• 앱 디자인<br/>• FE 개발<br/>• 백테스팅·패턴 컴포넌트</div> |<div align="left">• 패턴 감지 로직<br/>• 백테스트 엔진<br/>• AI 종목 검색<br/>• 감정일기 분석</div> |
+### Frontend ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-</div>
+| 이가현 | 이채원 |
+|:------:|:------:|
+| <img width="160px" src="https://avatars.githubusercontent.com/KaHeyon" /> | <img width="160px" src="https://avatars.githubusercontent.com/Chaewon5227" /> |
+| [@KaHeyon](https://github.com/KaHeyon) | [@Chaewon5227](https://github.com/Chaewon5227) |
+| **Frontend · Design Lead** | **Frontend · Design** |
+
+### Backend ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+| 한지수 | 조수민 |
+|:------:|:------:|
+| <img width="160px" src="https://avatars.githubusercontent.com/eldeoddt" /> | <img width="160px" src="https://avatars.githubusercontent.com/Soomxn" /> |
+| [@eldeoddt](https://github.com/eldeoddt) | [@Soomxn](https://github.com/Soomxn) |
+| **Team Lead · Backend** | **Backend · ML Engineer** |
 
 ---
 
