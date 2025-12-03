@@ -266,9 +266,6 @@ Flutter 기반 크로스 플랫폼 모바일 앱 (Android/iOS)
 ---
 
 ## 📧 Contact
-
-프로젝트에 대한 문의사항이 있으시면 아래 연락처로 연락 부탁드립니다:
-
 - **Email**: patterncatcher83@gmail.com
 ---
 
