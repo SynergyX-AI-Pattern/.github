@@ -1,5 +1,5 @@
 # 📈 PatternCatcher (패턴캐처) 
-![2025 한이음 드림업 장려상](https://img.shields.io/badge/2025%20한이음%20드림업-장려상-FFD700?style=for-the-badge)
+**🏆 2025 한이음 드림업 장려상 수상작**
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ccf4659e-65e0-477a-ac23-e3e4260671f3" alt="PatternCatcher Logo" width="150"/>
@@ -11,13 +11,6 @@
   [🎥 데모 영상](https://youtu.be/KmI5lIBw4qw) • [📄 발표 자료](https://github.com/user-attachments/files/23898620/PatternCatcher.pdf)
 
 </div>
-
----
-
-## 🏆 수상 내역
-
-**2025 한이음 드림업 장려상**
-- Team SynergyX - AI 기반 주가 예측 및 그래프 패턴 알고리즘 트레이딩 시스템
 
 ---
 
@@ -282,12 +275,10 @@ Flutter 기반 크로스 플랫폼 모바일 앱 (Android/iOS)
 
 <div align="center">
 
-**SynergyX-PatternCatcher**
+**PatternCatcher** by Team SynergyX
 
-*사용자 정의 차트 패턴 기반 AI 주가 예측 및 백테스팅 시스템*
+*사용자 정의 차트 패턴 기반 실시간 감지·백테스팅 시스템*
 
-Made with ❤️ by Team SynergyX
-
-© 2025 Team SynergyX. 본 프로젝트는 졸업작품 및 한이음 공모전 용도로 제작되었습니다.
+© 2025 Team SynergyX
 
 </div>
