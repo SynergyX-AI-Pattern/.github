@@ -1,15 +1,10 @@
 # 📈 PatternCatcher (패턴캐처) 
 **🏆 2025 한이음 드림업 장려상 수상작**
 
-<div align="center">
-
-  ### AI 주가 예측 및 차트 패턴 기반 실시간 감지·백테스팅 시스템
-  
-  [🎥 데모 영상](https://youtu.be/KmI5lIBw4qw) • [📄 발표 자료](https://github.com/user-attachments/files/23898620/PatternCatcher.pdf)
+### AI 주가 예측 및 차트 패턴 기반 실시간 감지·백테스팅 시스템
+[🎥 데모 영상](https://youtu.be/KmI5lIBw4qw) • [📄 발표 자료](https://github.com/user-attachments/files/23898620/PatternCatcher.pdf)
 
 <img width="4800" height="2400" alt="1-6f60498e" src="https://github.com/user-attachments/assets/24c17eaf-4506-4365-9752-37737730047c" />
-
-</div>
 
 ---
 
